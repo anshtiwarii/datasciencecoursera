@@ -1,7 +1,0 @@
----
-title: "HelloWorld"
-author: "Ansh Tiwari"
-date: "2/19/2020"
-output: pdf_document
----
-This is a markdown file
